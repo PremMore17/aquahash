@@ -1,0 +1,12 @@
+[
+  {
+    "zone_id": "zone_001",
+    "annual_rainfall": 920,
+    "recharge_rate": "Good"
+  },
+  {
+    "zone_id": "zone_002",
+    "annual_rainfall": 540,
+    "recharge_rate": "Poor"
+  }
+]

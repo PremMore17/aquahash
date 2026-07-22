@@ -1,0 +1,20 @@
+[
+  {
+    "id": "zone_001",
+    "name": "Bangalore North",
+    "lat": 12.98,
+    "lng": 77.58,
+    "depth": 18,
+    "risk": "safe",
+    "sustainability": 82
+  },
+  {
+    "id": "zone_002",
+    "name": "Industrial Zone",
+    "lat": 12.95,
+    "lng": 77.64,
+    "depth": 65,
+    "risk": "critical",
+    "sustainability": 24
+  }
+]

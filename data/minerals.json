@@ -1,0 +1,16 @@
+[
+  {
+    "zone_id": "zone_001",
+    "tds": 320,
+    "fluoride": 0.5,
+    "iron": 0.2,
+    "salinity": "Low"
+  },
+  {
+    "zone_id": "zone_002",
+    "tds": 1100,
+    "fluoride": 1.8,
+    "iron": 1.2,
+    "salinity": "High"
+  }
+]

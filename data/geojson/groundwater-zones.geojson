@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangalore",
+        "risk": "critical",
+        "depth": 65,
+        "sustainability": 22
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.50, 12.90],
+            [77.70, 12.90],
+            [77.70, 13.10],
+            [77.50, 13.10],
+            [77.50, 12.90]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mangalore",
+        "risk": "moderate",
+        "depth": 38,
+        "sustainability": 58
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [74.80, 12.85],
+            [74.90, 12.85],
+            [74.90, 12.95],
+            [74.80, 12.95],
+            [74.80, 12.85]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bantval",
+        "risk": "safe",
+        "depth": 18,
+        "sustainability": 82
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.00, 12.80],
+            [75.10, 12.80],
+            [75.10, 12.90],
+            [75.00, 12.90],
+            [75.00, 12.80]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_001",
+        "name": "North District",
+        "depth": 15,
+        "risk": "safe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.58, 12.98], [77.60, 12.98], [77.60, 13.00], [77.58, 13.00], [77.58, 12.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zone_002",
+        "name": "Industrial Hub",
+        "depth": 65,
+        "risk": "critical"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.62, 12.95], [77.64, 12.95], [77.64, 12.97], [77.62, 12.97], [77.62, 12.95]]]
+      }
+    }
+  ]
+}
